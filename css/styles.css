@@ -214,6 +214,31 @@ body {
     color: #2196F3;
 }
 
+.item {
+    display: flex;
+}
+
+.button {
+    align-items: center;
+}
+
+.button-icon {
+    width: 16px;
+    height: 12px;
+    fill: #757575;
+    align-items: center;
+}
+
+.button-icon:hover {
+    color: #2196F3;
+}
+
+.button-icon-phone {
+    width: 10px;
+    height: 16px;
+    fill: #757575;
+}
+
 .modal-btn {
     color: #FFFFFF;
     background-color: #2196F3;
@@ -355,6 +380,15 @@ body {
 
 .feature .feature-list:last-child {
     margin-right: 0;
+}
+
+.thumb {
+    background-color: #F5F4FA;
+}
+
+.icon-antenna {
+    width: 70px;
+    height: 70px;
 }
 
 .employees {
