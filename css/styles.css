@@ -630,7 +630,7 @@
         width: 44px;
         height: 44px;
         border-radius: 50%;
-        background-color:
+        background-color: rgba(67, 71, 80, 1);
     }
     
     .footer-list-link:hover,
