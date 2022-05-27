@@ -131,9 +131,10 @@
     }
     
     .menu-contact .contact-nav {
-        display: block;
+        display: flex;
         padding-top: 32px;
         padding-bottom: 32px;
+        align-items: center;
     }
     
     .main-nav {
@@ -597,6 +598,11 @@
         padding-left: 15px;
         padding-right: 15px;
         margin: 0 auto;
+        display: flex;
+    }
+    
+    .footer-icons {
+        margin-left: 70px;
     }
     
     .footer-title {
@@ -624,7 +630,7 @@
         width: 44px;
         height: 44px;
         border-radius: 50%;
-        background-color: #212121;
+        background-color:
     }
     
     .footer-list-link:hover,
