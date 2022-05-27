@@ -177,7 +177,7 @@
     
     .catalog-link:hover,
     .catalog-link:focus {
-        box-shadow: 1px 4px 1px 1px rgba(0, 0, 0, 0.16);
+        box-shadow: 0px 4px 0px 1px rgba(0, 0, 0, 0.25);
     }
     
     .site-nav {
@@ -630,7 +630,7 @@
         width: 44px;
         height: 44px;
         border-radius: 50%;
-        background-color: rgba(67, 71, 80, 1);
+        background-color: rgba(255, 255, 255, 0.1);
     }
     
     .footer-list-link:hover,
