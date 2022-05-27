@@ -216,7 +216,7 @@
     
     .button-icon:hover,
     .button-icon:focus {
-        color: #2196F3;
+        fill: #2196F3;
     }
     
     .button-icon-phone {
@@ -229,7 +229,7 @@
     
     .button-icon-phone:hover,
     .button-icon-phone:focus {
-        color: #2196F3;
+        fill: #2196F3;
     }
     
     .modal-btn {
@@ -505,6 +505,11 @@
         border: 1px solid#AFB1B8;
         align-items: center;
         padding: 16px 32px 16px 32px;
+    }
+    
+    .clients-list:hover,
+    .clients-list:focus {
+        border: 1px solid#2196F3;
     }
     
     .clients-link .clients-list:last-child {
