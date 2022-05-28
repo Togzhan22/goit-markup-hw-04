@@ -215,8 +215,8 @@
         margin-right: 10px;
     }
     
-    .button-icon:hover,
-    .button-icon:focus {
+    .contact-nav:hover .button-icon,
+    .contact-nav:focus .button-icon {
         fill: #2196F3;
     }
     
@@ -228,8 +228,8 @@
         margin-right: 10px;
     }
     
-    .button-icon-phone:hover,
-    .button-icon-phone:focus {
+    .contact-nav:hover .button-icon-phone,
+    .contact-nav:focus .button-icon-phone {
         fill: #2196F3;
     }
     
@@ -530,8 +530,8 @@
         align-items: center;
     }
     
-    .our-clients-icon:hover,
-    .our-clients-icon:focus {
+    .our-clients:hover .our-clients-icon,
+    .our-clients:focus .our-clients-icon {
         fill: #2196F3;
     }
     /*    FOOTER   */
