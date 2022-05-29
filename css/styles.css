@@ -168,8 +168,12 @@
         margin-bottom: 30px;
     }
     
-    .catalog-list :hover,
-    .catalog-list :focus {
+    .catalog-list {
+        display: block;
+    }
+    
+    .catalog-list:hover,
+    .catalog-list:focus {
         box-shadow: 0px 4px 0px 1px rgba(0, 0, 0, 0.25);
     }
     
